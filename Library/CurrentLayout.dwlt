@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 492}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -41,9 +41,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1366
     height: 725
   m_MinSize: {x: 950, y: 492}
+=======
+    width: 1536
+    height: 821
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -86,12 +92,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1366
     height: 675
+=======
+    width: 1536
+    height: 771
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 87
+  controlID: 31
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +146,11 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 88
+=======
+  controlID: 52
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,7 +168,11 @@ MonoBehaviour:
     x: 651
     y: 0
     width: 204
+<<<<<<< HEAD
     height: 675
+=======
+    height: 771
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 13}
@@ -228,8 +247,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 651
     height: 315
+=======
+    width: 821
+    height: 360
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
@@ -252,9 +276,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 315
     width: 651
     height: 360
+=======
+    y: 360
+    width: 821
+    height: 411
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
@@ -323,9 +353,15 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 3c3bffff
     m_LastClickedID: -50372
     m_ExpandedIDs: 2820ffffd0cafffffaf3ffff00000000d0300000
+=======
+    m_SelectedIDs: c6c5ffff
+    m_LastClickedID: -14906
+    m_ExpandedIDs: 36dcffff96fbffff00000000
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -421,6 +457,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets/Picture
   m_ViewMode: 1
   m_StartGridSize: 16
@@ -434,6 +471,21 @@ MonoBehaviour:
     m_SelectedIDs: 48300000
     m_LastClickedID: 12360
     m_ExpandedIDs: 000000003a2f000054300000ffffff7f
+=======
+    - Assets/GoogleVR/Prefabs
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets/GoogleVR/Prefabs
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: "D:\\\u9CE5\u7FBD\u4E38_VR\\GitHub\\TobaMaruLab"
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 0e2c0000
+    m_LastClickedID: 11278
+    m_ExpandedIDs: 00000000be2a0000122c000000ca9a3bffffff7f
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -461,7 +513,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000003a2f0000
+=======
+    m_ExpandedIDs: 00000000be2a0000
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -656,9 +712,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
+<<<<<<< HEAD
     m_Target: 72.10455
     speed: 2
     m_Value: 72.10455
+=======
+    m_Target: 24.117138
+    speed: 2
+    m_Value: 24.117138
+>>>>>>> aece75af3316dca0bdf133f2a98125af18f7065a
   m_Ortho:
     m_Target: 0
     speed: 2
