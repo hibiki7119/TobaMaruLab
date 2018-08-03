@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Unity/23.unity
+=======
+- path: Assets/Unity/25.unity
+>>>>>>> 24eaf0aa5fd38a11b1362f74f16698db839dd19b
   isLoaded: 1
   isActive: 1

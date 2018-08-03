@@ -137,9 +137,63 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\ScoreText.cs" />
      <Compile Include="Assets\Script00.cs" />
      <Compile Include="Assets\taniki.cs" />
+=======
+     <Compile Include="Assets\Scripts\Moves\Move01.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move02.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move03.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move04.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move05.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move06.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move07.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move08.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move09.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move10.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move11.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move12.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move13.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move14.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move15.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move16.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move17_1.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move17_2.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move18.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move19.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move20.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move21.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move22.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move23.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move24.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move25.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move26.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move27.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move28.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move29.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move30.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move31_1.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move31_2.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move32.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move33.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move34.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move35_1.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move35_2.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move36.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move37.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move38.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move39.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move40.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move41.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move42.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move43.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move44.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move45.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move46.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move47.cs" />
+     <Compile Include="Assets\Scripts\Moves\Move50.cs" />
+>>>>>>> 24eaf0aa5fd38a11b1362f74f16698db839dd19b
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrController.shader" />
@@ -373,8 +427,16 @@
  <Reference Include="System">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.dll</HintPath>
  </Reference>
+<<<<<<< HEAD
  <Reference Include="System.Core">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Core.dll</HintPath>
+=======
+ <Reference Include="Google.ProtocolBuffers">
+ <HintPath>C:/Users/yume/Documents/GitHub/TobaMaruLab/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Users/yume/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
+>>>>>>> 24eaf0aa5fd38a11b1362f74f16698db839dd19b
  </Reference>
  <Reference Include="System.Runtime.Serialization">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll</HintPath>

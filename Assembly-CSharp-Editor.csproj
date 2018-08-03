@@ -308,7 +308,14 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
+<<<<<<< HEAD
  <HintPath>/Users/nakaisaaya/Documents/GitHub/TobaMaruLab/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+=======
+ <HintPath>C:/Users/yume/Documents/GitHub/TobaMaruLab/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Users/yume/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
+>>>>>>> 24eaf0aa5fd38a11b1362f74f16698db839dd19b
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Users/nakaisaaya/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.7/Editor/UnityEditor.Advertisements.dll</HintPath>
